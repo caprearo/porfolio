@@ -1,0 +1,57 @@
+.photo {
+    border-radius: 90%; 
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-left: 42%;     
+
+}
+
+h2 {
+    font-size: 16px;
+    color: #FFB4A2;
+    text-align: center;
+}
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #E5989B;
+    text-align: center;
+    text-decoration: underline wavy #FFB4A2;   
+    
+}
+
+.hab {
+    padding: 10px;
+    background-color: burlywood;
+    border-radius: 10px;
+    text-decoration: wavy pink;
+}
+
+body {
+    background: #6D6875
+    
+}
+
+.list{
+    background-color: orchid;
+}
+
+.descrição {
+    Display: flex ;
+  flex-direction: column;
+  font-size: 16px;
+  background: linear-gradient(180deg, #B5838D 0%, rgba(241, 238, 236, 0.651) 100%);
+  margin-top: 10px;
+  padding: 30px;
+  box-shadow: 2px 2px 4px rgba(16, 16, 16, 0.42);
+  border-radius: 20px;
+}
+.contato{
+    text-align: center;
+    list-style: none;
+    text-decoration: none;
+    line-height: 30px;
+    color: #FFB4A2;
+    
+    
+    
+    
+}
